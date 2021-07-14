@@ -11,7 +11,7 @@ A pretty simplified Docker Compose workflow that sets up a LEMP (Linux, NGINX, M
 Ports used in the project:
 | Software | Port |
 |-------------- | -------------- |
-| **nginx** | 8080 |
+| **nginx** | 8000 |
 | **phpmyadmin** | 8081 |
 | **mysql** | 3306 |
 | **php** | 9000 |
